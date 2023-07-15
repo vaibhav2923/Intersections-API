@@ -1,7 +1,5 @@
 # GoLang / Express-NodeJS application - Intersections API:
-
-
-
+NOTE: Sorry for the inconvinience , i was not able  to attach the source code file in the google form.
 
  This is a mapping based API and so requires integration of turfjs:
  
